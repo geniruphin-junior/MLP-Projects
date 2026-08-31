@@ -1,0 +1,5 @@
+matplotib
+seaborn
+pythorch
+sklearn
+pandas
